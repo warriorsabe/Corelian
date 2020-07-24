@@ -1,0 +1,7 @@
+name	  ascent	capture		circularization
+
+Corelian  N/A
+Thale	  117
+Pras	  2000
+Atraxi	  794
+Dres	  ---
